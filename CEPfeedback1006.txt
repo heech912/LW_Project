@@ -1,0 +1,24 @@
+peter norvig Russel Stewart
+AI 
+
+Define Action
+Post Conditions
+Pre-conditions
+
+STRIP model good! 
+Goal ?
+
+Problem DOmain language
+Defi
+
+actions, states
+sequence of actions
+
+SLAM
+work on planning part
+encode 
+
+Domain independent language 
+PBDL
+PDBL
+
